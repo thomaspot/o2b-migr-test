@@ -2,3 +2,8 @@
 	path = OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 12.0
+
+[submodule "OCA/social"]
+	path = OCA/social
+	url = git@github.com:OCA/social.git
+	branch = 12.0
